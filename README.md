@@ -14,7 +14,7 @@
 * 자동화
 
 ### Storage
-* Block > 저장공간
-* File  > 파일
-* Object > 파일 + Meta Data
+* Block > 저장공간(EBS)
+* File  > 파일(EFS)
+* Object > Data + Meta Data + Key(S3)
 
