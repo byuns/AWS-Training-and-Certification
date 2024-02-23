@@ -7,5 +7,9 @@
 * Edge Location : 가까운 곳에 저장 및 사용 가능(Cache)
 
 ### IAM(Identity and Access Management)
-* 조회/접근/자격 부여
-* 
+* 조회/접근/자격 등 권한 부여
+
+### Container
+
+### AWS Lamda 
+* 자동화
