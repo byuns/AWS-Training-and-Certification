@@ -13,3 +13,8 @@
 ### AWS Lamda 
 * 자동화
 
+### Storage
+* Block > 저장공간
+* File  > 파일
+* Object > 파일 + Meta Data
+
